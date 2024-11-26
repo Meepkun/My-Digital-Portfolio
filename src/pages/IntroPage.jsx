@@ -4,7 +4,7 @@ import profile from "../assets/Meep.jpg";
 function IntroPage() {
   return (
     <>
-    <div className="introduction-page">
+    <div className="intro-page">
     <img src={profile} class="rounded-circle align-items-start d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="200" height="200" loading="lazy" />         
       <h1>Welcome to My Digital Portfolio</h1>
       <section className="personal-intro">
